@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Frontend engineer who takes products end to end, from polished React and Next.js interfaces to the AI agents and Python backends behind them. Most of my strongest work lives in private and client repositories, so the projects behind my Upwork profile are the best place to see what I actually ship.
+Frontend engineer who ships products end to end, from React and Next.js interfaces to the AI agents and Python backends behind them. My strongest work is in private client repos, so my Upwork profile is the best place to see what I ship.
 </p>
 
 ## Frontend
@@ -69,7 +69,7 @@ Around a year on fintech apps: real-time data, brokerage integrations, and the a
 
 ## Also worked with
 
-Chrome extensions (built in a Vite app, with the build wired up for extension index and CSS bundling), plus marketing and email tooling.
+Chrome extensions built with Vite (custom build setup for extension bundling), plus marketing and email tooling.
 
 <p>
   <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
