@@ -42,17 +42,18 @@ I'm strongest here, with 3 years building production interfaces. Started with CS
 
 ## Mobile
 
-8 months with React Native. Shipped 5+ apps, including ShowCoach, live on both the App Store and Google Play. Not my primary focus, but I can take a mobile app from build to store.
+8 months with React Native. Shipped 5+ apps, including ShowCoach, live on both the App Store and Google Play, with in-app purchases for both one-time products and subscriptions. Not my primary focus, but I can take a mobile app from build to store.
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/In--App%20Purchases-635BFF?style=flat-square&logo=applepay&logoColor=white"/>
 </p>
 
 ## AI Agents
 
-Around 1.5 years building agent systems: multi-agent orchestration, routing, memory management, human-in-the-loop flows, and autonomous agents.
+Building agent systems since mid 2023: multi-agent orchestration, routing, memory management, human-in-the-loop flows, and autonomous agents. Plenty of RAG work, with vector stores like FAISS, Qdrant, Pinecone, and Chroma.
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -60,6 +61,13 @@ Around 1.5 years building agent systems: multi-agent orchestration, routing, mem
   <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chroma-FC6A2E?style=flat-square&logo=chromatic&logoColor=white"/>
 </p>
 
 ## Python Backends
@@ -72,6 +80,8 @@ Around a year on fintech apps: real-time data, brokerage integrations, and the a
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
