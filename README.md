@@ -123,6 +123,9 @@ My everyday toolkit: iTerm2, Claude Code, PyCharm, VS Code, and a pen and paper.
   <a href="https://www.upwork.com/freelancers/~018b304319a2e5430a">
     <img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
+  <a href="https://junaidi2k1.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/JuGit-pk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
