@@ -16,7 +16,7 @@ Frontend engineer who ships products end to end, from React and Next.js interfac
 
 ## Frontend
 
-I'm strongest here, with 3 years building production interfaces.
+I'm strongest here, with 3 years building production interfaces. Started with CSS and SCSS, moved to Tailwind early in 2021 as it became the standard, and have used shadcn/ui since its early days (Ant Design and Headless UI before that). Comfortable wiring up data with REST, GraphQL, and TanStack Query.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -25,6 +25,16 @@ I'm strongest here, with 3 years building production interfaces.
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Headless%20UI-66E3FF?style=flat-square&logo=headlessui&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ## Mobile
