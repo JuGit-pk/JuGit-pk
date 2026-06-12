@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Frontend engineer who also builds AI agents and Python backends. Most of my strongest work lives in private and client repositories, so the projects behind my Upwork profile are the best place to see what I actually ship.
+Frontend engineer who takes products end to end, from polished React and Next.js interfaces to the AI agents and Python backends behind them. Most of my strongest work lives in private and client repositories, so the projects behind my Upwork profile are the best place to see what I actually ship.
 </p>
 
 ## Frontend
@@ -25,6 +25,16 @@ I'm strongest here, with 3 years building production interfaces.
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+</p>
+
+## Mobile
+
+8 months with React Native. Shipped 5+ apps, including ShowCoach, live on both the App Store and Google Play. Not my primary focus, but I can take a mobile app from build to store.
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 
 ## AI Agents
@@ -55,6 +65,35 @@ Around a year on fintech apps: real-time data, brokerage integrations, and the a
 
 <p>
   <b>Fintech:</b> SnapTrade and Alpaca brokerage integrations across multiple market indexes, with SSO for auth.
+</p>
+
+## Also worked with
+
+Chrome extensions (built in a Vite app, with the build wired up for extension index and CSS bundling), plus marketing and email tooling.
+
+<p>
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SendGrid-51A9E3?style=flat-square&logo=maildotru&logoColor=white"/>
+</p>
+
+<p>
+  HubSpot email funnels and pixel integrations, and transactional email with SendGrid.
+</p>
+
+## How I build
+
+I work with AI in the loop. I've used Cursor, Trae, Google AI Studio, Codex, and Antigravity, and Claude Code is my current daily driver.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <a href="https://conductorscore.com/u/JuGit-pk">
+    <img src="https://img.shields.io/badge/ConductorScore-Profile-5865F2?style=flat-square"/>
+  </a>
+  <a href="https://conductorscore.com/leaderboard">
+    <img src="https://img.shields.io/badge/ConductorScore-Leaderboard-5865F2?style=flat-square"/>
+  </a>
 </p>
 
 ## Let's work together
