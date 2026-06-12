@@ -109,6 +109,14 @@ I work with AI in the loop. I've used Cursor, Trae, Google AI Studio, Codex, and
   </a>
 </p>
 
+My everyday toolkit: iTerm2, Claude Code, PyCharm, VS Code, and a pen and paper.
+
+<p>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 ## Let's work together
 
 <p>
