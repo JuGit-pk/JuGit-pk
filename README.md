@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Junaid Iqbal</h1>
 
 <p align="center">
-  <b>Frontend Engineer</b> &nbsp;·&nbsp; <b>AI Agents</b> &nbsp;·&nbsp; <b>Python Backends</b>
+  <b>Backend Engineer</b> &nbsp;·&nbsp; <b>Python &amp; Django</b> &nbsp;·&nbsp; <b>Fintech and AI</b>
 </p>
 
 <p align="center">
@@ -11,12 +11,58 @@
 </p>
 
 <p align="center">
-Frontend engineer who ships products end to end, from React and Next.js interfaces to the AI agents and Python backends behind them. My strongest work is in private client repos, so my Upwork profile is the best place to see what I ship.
+I write backends where being wrong costs money. Last year I worked on Surmount, a US automated investing platform: one Django backend serving four brands, placing real trades through Alpaca and SnapTrade. Order reconciliation, withdrawable cash rules, partner SSO. Before that, four LLM systems shipped to real users.<br><br>Most of my work lives in private client repos, so this profile is thin on purpose. My Upwork profile and my site show what I actually ship.
+</p>
+
+## Backend
+
+A year on a live US investing platform, on the parts that move real money. One Django backend served Surmount plus three white label brands: tenant isolation, per tenant config, feature flags, one shared migration graph.
+
+The work I would want to be asked about: fixing order reconciliation where completed sells were being logged as failures, rewriting the rule that decides how much cash a user can actually withdraw, and building partner sign in over OpenID Connect with a mock provider so the hand off could be tested before the partner shipped theirs.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
+
+<p>
+  <b>Fintech:</b> SnapTrade and Alpaca brokerage integrations across multiple market indexes, with SSO for auth.
+</p>
+
+## AI Agents
+
+Four LLM systems shipped to real users, not demos: a medicine condition checker, script generation with automatic video matching, post moderation, and a podcast generator. Multi agent orchestration, routing, memory, human in the loop, and streaming over server sent events and WebSockets.
+
+Plenty of RAG, with FAISS, Qdrant, Pinecone and Chroma. I own the backends these run on, so I can talk about token cost, retry semantics, and what happens when a model returns garbage at 2am.
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chroma-FC6A2E?style=flat-square&logo=chromatic&logoColor=white"/>
 </p>
 
 ## Frontend
 
-I'm strongest here, with 3 years building production interfaces. Started with CSS and SCSS, moved to Tailwind early in 2021 as it became the standard, and have used shadcn/ui since its early days (Ant Design and Headless UI before that). Comfortable wiring up data with REST, GraphQL, and TanStack Query, and have built interactive canvas work, mostly with Fabric.js.
+Where I started, and three years of it. Began with CSS and SCSS, moved to Tailwind early in 2021, and have used shadcn/ui since its early days (Ant Design and Headless UI before that). REST, GraphQL and TanStack Query, plus interactive canvas work with Fabric.js.
+
+I do not go looking for frontend work now, but it is the reason I design APIs that are pleasant to consume.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -49,46 +95,6 @@ I'm strongest here, with 3 years building production interfaces. Started with CS
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/In--App%20Purchases-635BFF?style=flat-square&logo=applepay&logoColor=white"/>
-</p>
-
-## AI Agents
-
-Building agent systems since mid 2023: multi-agent orchestration, routing, memory management, human-in-the-loop flows, and autonomous agents. Plenty of RAG work, with vector stores like FAISS, Qdrant, Pinecone, and Chroma.
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chroma-FC6A2E?style=flat-square&logo=chromatic&logoColor=white"/>
-</p>
-
-## Python Backends
-
-Around a year on fintech apps: real-time data, brokerage integrations, and the agent systems that sit on top of them.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-
-<p>
-  <b>Fintech:</b> SnapTrade and Alpaca brokerage integrations across multiple market indexes, with SSO for auth.
 </p>
 
 ## Also worked with
